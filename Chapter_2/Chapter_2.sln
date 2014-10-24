@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.1.Remove Duplicate", "2.1.Remove Duplicate\2.1.Remove Duplicate.vcxproj", "{B146C755-D6E8-4934-920F-F5EE1AE0F0E4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.2. Find k to the Last element", "2.2. Find k to the Last element\2.2. Find k to the Last element.vcxproj", "{93D034FD-EFD3-4DF8-BAAC-1E7EAB21395A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.4. Parition around value X", "Parition around value X\Parition around value X.vcxproj", "{2EB14993-E824-48DA-9CB6-BE2295606331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B146C755-D6E8-4934-920F-F5EE1AE0F0E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B146C755-D6E8-4934-920F-F5EE1AE0F0E4}.Debug|Win32.Build.0 = Debug|Win32
+		{B146C755-D6E8-4934-920F-F5EE1AE0F0E4}.Release|Win32.ActiveCfg = Release|Win32
+		{B146C755-D6E8-4934-920F-F5EE1AE0F0E4}.Release|Win32.Build.0 = Release|Win32
+		{93D034FD-EFD3-4DF8-BAAC-1E7EAB21395A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93D034FD-EFD3-4DF8-BAAC-1E7EAB21395A}.Debug|Win32.Build.0 = Debug|Win32
+		{93D034FD-EFD3-4DF8-BAAC-1E7EAB21395A}.Release|Win32.ActiveCfg = Release|Win32
+		{93D034FD-EFD3-4DF8-BAAC-1E7EAB21395A}.Release|Win32.Build.0 = Release|Win32
+		{2EB14993-E824-48DA-9CB6-BE2295606331}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2EB14993-E824-48DA-9CB6-BE2295606331}.Debug|Win32.Build.0 = Debug|Win32
+		{2EB14993-E824-48DA-9CB6-BE2295606331}.Release|Win32.ActiveCfg = Release|Win32
+		{2EB14993-E824-48DA-9CB6-BE2295606331}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
