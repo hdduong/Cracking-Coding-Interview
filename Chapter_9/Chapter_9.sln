@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Count Up Stair", "Count Up Stair\Count Up Stair.vcxproj", "{48C94C1C-230B-44B7-96C5-C211FF53473C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "All subsets", "All subsets\All subsets.vcxproj", "{CFA8CF0B-B144-4A24-A173-A0B11E4D6253}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Valid Parentheses", "Valid Parentheses\Valid Parentheses.vcxproj", "{AC2A972A-224F-41B6-8534-AE511F262492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C94C1C-230B-44B7-96C5-C211FF53473C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48C94C1C-230B-44B7-96C5-C211FF53473C}.Debug|Win32.Build.0 = Debug|Win32
+		{48C94C1C-230B-44B7-96C5-C211FF53473C}.Release|Win32.ActiveCfg = Release|Win32
+		{48C94C1C-230B-44B7-96C5-C211FF53473C}.Release|Win32.Build.0 = Release|Win32
+		{CFA8CF0B-B144-4A24-A173-A0B11E4D6253}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFA8CF0B-B144-4A24-A173-A0B11E4D6253}.Debug|Win32.Build.0 = Debug|Win32
+		{CFA8CF0B-B144-4A24-A173-A0B11E4D6253}.Release|Win32.ActiveCfg = Release|Win32
+		{CFA8CF0B-B144-4A24-A173-A0B11E4D6253}.Release|Win32.Build.0 = Release|Win32
+		{AC2A972A-224F-41B6-8534-AE511F262492}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC2A972A-224F-41B6-8534-AE511F262492}.Debug|Win32.Build.0 = Debug|Win32
+		{AC2A972A-224F-41B6-8534-AE511F262492}.Release|Win32.ActiveCfg = Release|Win32
+		{AC2A972A-224F-41B6-8534-AE511F262492}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
