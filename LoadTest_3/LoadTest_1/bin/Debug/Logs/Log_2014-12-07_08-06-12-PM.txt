@@ -1,0 +1,1298 @@
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/AEisenman/ OK OK 00:00:08.6458725
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/ALaguna/ OK OK 00:00:15.1210573
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/ANice/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/BBillini/ OK OK 00:00:07.5240485
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/BBurlone/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/CAngel/ OK OK 00:00:19.0441106
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/DShekhter/ OK OK 00:00:06.2322790
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/DVitalone/ OK OK 00:00:05.5802043
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/GMir/ OK OK 00:00:06.1849146
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/GIbanez/ OK OK 00:00:07.9102106
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/GWhite/ OK OK 00:00:18.4346925
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/IMason/ OK OK 00:00:08.9507373
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/JVenney/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/JCornavaca/ OK OK 00:00:19.1823099
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/JMarsano/ OK OK 00:00:17.0168132
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/JCampos/ OK OK 00:00:07.4774471
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/KKnowlton/ OK OK 00:00:06.9571221
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/KHerschlein/ OK OK 00:00:06.9521793
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/LBaez/ OK OK 00:00:07.6872492
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/LHamway/ OK OK 00:00:05.5246359
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/LCantillo/ OK OK 00:00:06.7171839
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/MFriedman/ OK OK 00:00:08.1297711
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/MLanning/ OK OK 00:00:07.4049575
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/MCollie/ OK OK 00:00:17.3119938
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/MPerez/ OK OK 00:00:06.4525101
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/MPierce/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/OAndreu/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/PHutchison/ OK OK 00:00:08.0715294
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/RGarcia/ OK OK 00:00:18.3288225
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/ROdor/ OK OK 00:00:06.6890913
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/RAustin1/ OK OK 00:00:07.9071623
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/RSohan/ OK OK 00:00:07.1129817
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/RWikel/ OK OK 00:00:06.9742122
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/SGutierrez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/TBerry/ OK OK 00:00:10.7104569
+12/7/2014 8:06:12 PM ==> http://residential.bankunited.com/TSiebald/ OK OK 00:00:09.7512135
+12/7/2014 8:06:12 PM ==> http://www.blumortgage.com/Hilary/ OK OK 00:00:13.9977273
+12/7/2014 8:06:12 PM ==> http://www.blumortgage.com/Jon/ OK OK 00:00:13.7310736
+12/7/2014 8:06:12 PM ==> http://www.blumortgage.com/Lindsay/ OK OK 00:00:12.6365427
+12/7/2014 8:06:12 PM ==> http://www.blumortgage.com/Luis/ OK OK 00:00:13.3183738
+12/7/2014 8:06:12 PM ==> http://www.blumortgage.com/Mark/ OK OK 00:00:04.9123693
+12/7/2014 8:06:12 PM ==> http://www.capmarkllc.com/DavidLongoria/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.capmarkllc.com/DennisAnninos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.capmarkllc.com/JustinRay/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.cardinalconnect.com/BrianJosephGardner/ OK OK 00:00:09.1918517
+12/7/2014 8:06:12 PM ==> http://www.cardinalconnect.com/EdwinAponte/ OK OK 00:00:07.1460591
+12/7/2014 8:06:12 PM ==> http://www.cardinalconnect.com/KathrynClancy/ OK OK 00:00:07.7265273
+12/7/2014 8:06:12 PM ==> http://www.cardinalconnect.com/LaurenceJamesHope/ OK OK 00:00:12.9307165
+12/7/2014 8:06:12 PM ==> http://www.cardinalconnect.com/MariaFahner/ OK OK 00:00:06.8930602
+12/7/2014 8:06:12 PM ==> http://www.cardinalconnect.com/NoelMcGovern/ OK OK 00:00:06.3693081
+12/7/2014 8:06:12 PM ==> http://www.cardinalconnect.com/ShawnConley/ OK OK 00:00:05.2793016
+12/7/2014 8:06:12 PM ==> http://www.cardinalconnect.com/VincentVicchio/ OK OK 00:00:13.7184905
+12/7/2014 8:06:12 PM ==> http://www.cardinalconnect.com/StephenKaplan/ OK OK 00:00:15.9965412
+12/7/2014 8:06:12 PM ==> http://www.emmwholesale.com/east/ OK OK 00:00:11.6697144
+12/7/2014 8:06:12 PM ==> http://www.emmwholesale.com/neptune/ OK OK 00:00:15.1993160
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/JasonRenatti/ OK OK 00:00:15.6478006
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/LeonardMorovitz/ OK OK 00:00:16.0394013
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/DanFilipi/ OK OK 00:00:17.2376009
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/DannyRozenblum/ OK OK 00:00:16.2469139
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/ArthurSchmidt/ OK OK 00:00:19.2066454
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/BrentSoukop/ OK OK 00:00:17.2296108
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/DavidRicketts/ OK OK 00:00:16.7565340
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/SethAngell/ OK OK 00:00:16.4347770
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/DavidPeck/ OK OK 00:00:18.4071112
+12/7/2014 8:06:12 PM ==> http://www.coloradoboe.com/PatrickLanghans/ OK OK 00:00:16.7511042
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/AnthonyManzo/ OK OK 00:00:11.7478999
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/BrettShapiro/ OK OK 00:00:10.6048517
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/careers/ OK OK 00:00:09.2311158
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/CaseyMerritt/ OK OK 00:00:21.7636822
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/ChrisBacon/ OK OK 00:00:18.1768923
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/DavidTrisler/ OK OK 00:00:17.5806741
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/DinaMoussa/ OK OK 00:00:18.6943521
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/JamesCapra/ OK OK 00:00:16.2253461
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/JohnBolcar/ OK OK 00:00:18.2371732
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/KimberlyEdone/ OK OK 00:00:18.6494041
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/LaurenJanusee/ OK OK 00:00:21.2769846
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/MalakMatar/ OK OK 00:00:23.9027178
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/MarcTerantino/ OK OK 00:00:19.6963651
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/MarkGordon/ OK OK 00:00:04.8740097
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/NicoleGordon/ OK OK 00:00:10.5511325
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/RyanPavlosky/ OK OK 00:00:18.6735486
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/SamanthaCohn/ OK OK 00:00:17.3985929
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/SerenaRobles/ OK OK 00:00:16.2551665
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/SteveRozgonyi/ OK OK 00:00:15.9733960
+12/7/2014 8:06:12 PM ==> http://www.fortren.com/ThomasSwensen/ OK OK 00:00:08.2901514
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/AK/ OK OK 00:00:17.9501485
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/CraigT/ OK OK 00:00:22.3349037
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/DaveVance/ OK OK 00:00:22.9110161
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/EFregoso/ OK OK 00:00:20.4608575
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/EugeneGoring/ OK OK 00:00:19.7596093
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/JackieRoeder/ OK OK 00:00:18.1001801
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/JDO/ OK OK 00:00:17.6899225
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/JoseDuarte/ OK OK 00:00:20.9988190
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/MaryCBurton/ OK OK 00:00:17.2811527
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/MehranShafai/ OK OK 00:00:19.6848285
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/OfeliaMaria/ OK OK 00:00:07.9223809
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/OfeliaPrietoMariaPaez/ OK OK 00:00:21.4368825
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/phaseoneteam/ OK OK 00:00:11.6673885
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/QuinnBrown/ OK OK 00:00:25.7428054
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/RubenMoreno/ OK OK 00:00:14.6399212
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/RudyK/ OK OK 00:00:26.8114463
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/SergioAgudelo/ OK OK 00:00:20.0479271
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/TishaShaw/ OK OK 00:00:19.7037743
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/LJones/ OK OK 00:00:06.3245830
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/rami/ OK OK 00:00:25.5843336
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/RonVanElsis/ OK OK 00:00:14.8835940
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/HildaCastillo/ OK OK 00:00:21.9868756
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/KTMoore/ OK OK 00:00:14.4533988
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/OfeliaPrieto/ OK OK 00:00:14.5677823
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/GeorgeGianos/ OK OK 00:00:10.3572083
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/JimClarke/ OK OK 00:00:25.5080851
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/TheresaGonzales/ OK OK 00:00:19.9905347
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/SantosGarza/ OK OK 00:00:23.2871549
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/SteveN/ OK OK 00:00:11.7807056
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/Brian/ OK OK 00:00:20.6487565
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/RudyKranwinkel/ OK OK 00:00:24.5729118
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/BarryHill/ OK OK 00:00:08.3437595
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/JohnS/ OK OK 00:00:13.5525810
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/PAbrams/ OK OK 00:00:19.1355946
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/Hilda/ OK OK 00:00:22.6964300
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/Martin/ OK OK 00:00:28.1871560
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/MartinLomen/ OK OK 00:00:22.2352816
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/MariyaSharygina/ OK OK 00:00:09.6691989
+12/7/2014 8:06:12 PM ==> http://www.hf-corp.com/KevinLaBar/ OK OK 00:00:19.8134211
+12/7/2014 8:06:12 PM ==> http://www.ivyfirst.com/BrianEgan/ OK OK 00:00:21.0638737
+12/7/2014 8:06:12 PM ==> http://www.ivyfirst.com/CelineHadley/ OK OK 00:00:21.0816517
+12/7/2014 8:06:12 PM ==> http://www.ivyfirst.com/ChuckMeachon/ OK OK 00:00:20.4231301
+12/7/2014 8:06:12 PM ==> http://www.ivyfirst.com/JudiSchaeffer/ OK OK 00:00:20.3224154
+12/7/2014 8:06:12 PM ==> http://www.ivyfirst.com/JustoMontiel/ OK OK 00:00:22.5681526
+12/7/2014 8:06:12 PM ==> http://www.ivyfirst.com/ScottMcNamee/ OK OK 00:00:15.5238360
+12/7/2014 8:06:12 PM ==> http://www.ivyfirst.com/KSerrano/ OK OK 00:00:13.0670891
+12/7/2014 8:06:12 PM ==> http://www.Jointhelendingcompany.com/DaveDonsing/ OK OK 00:00:15.8701624
+12/7/2014 8:06:12 PM ==> http://www.Jointhelendingcompany.com/JohnPerez/ OK OK 00:00:16.5485726
+12/7/2014 8:06:12 PM ==> http://www.Jointhelendingcompany.com/JoshGolden/ OK OK 00:00:26.8996391
+12/7/2014 8:06:12 PM ==> http://www.Jointhelendingcompany.com/MichaelKrystek/ OK OK 00:00:24.3156515
+12/7/2014 8:06:12 PM ==> http://www.Jointhelendingcompany.com/MikeOConnor/ OK OK 00:00:16.3207553
+12/7/2014 8:06:12 PM ==> http://www.Jointhelendingcompany.com/RichBonora/ OK OK 00:00:20.6841532
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/AlGruzdis/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/AprilTrias/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/brokers/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/ChrisBirkett/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/ChristinaMachado/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/ColinSullivan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/DebbieMoore/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/DeborahCyrus/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/DennisIrvin/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/EvaSharma/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/GregoryArritt/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/JohnCurtin/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/LauraSmith/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/LoreleyWolters/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/LuisMarquez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/MelFe/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/MichaelSolis/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/PeterChigos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/RaulEspinoza/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/RobertCortez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/RobPhillips/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/SpencerRichardson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeq.com/VeeElmazaj/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AaronHardin/ OK OK 00:00:01.0623201
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AdamBoles/ OK OK 00:00:00.2914687
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AdamStein/ OK OK 00:00:00.4853242
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AdrielleEdwards/ OK OK 00:00:00.1740013
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AlmaAgtane/ OK OK 00:00:00.1707056
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AndraBrooks/ OK OK 00:00:00.1717660
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AngelaGibbs/ OK OK 00:00:00.1863580
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ARGTeam/ OK OK 00:00:00.2214811
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ArmikArzoumanian/ OK OK 00:00:00.1726434
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ArtonChau/ OK OK 00:00:00.1774050
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AshleyHarris/ OK OK 00:00:00.1722573
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AutumnVanRooy/ OK OK 00:00:00.2729912
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BabakGhaziani/ OK OK 00:00:00.2426483
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BankersPreferred/ OK OK 00:00:00.1879783
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BarbaraPerret-Brusco/ OK OK 00:00:00.2090484
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BeckyRhodes/ OK OK 00:00:00.2228404
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BellevueDavis/ OK OK 00:00:00.1719579
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Bend/ OK OK 00:00:00.1760004
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BenVaughn/ OK OK 00:00:00.3944725
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BeverlyDavis/ OK OK 00:00:00.1707560
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BillAbowd/ OK OK 00:00:00.1785411
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BlayneBucy/ OK OK 00:00:00.2792162
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BobbyAfrasiabi/ OK OK 00:00:00.1885858
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/bothell/ OK OK 00:00:00.5639724
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BradleyWood/ OK OK 00:00:00.1692916
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BradRake/ OK OK 00:00:00.1765766
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/brockway/ OK OK 00:00:00.4769362
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BruceKussman/ OK OK 00:00:00.2043424
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BuckGieseke/ OK OK 00:00:00.5561275
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CaliforniaMortgageDirect/ OK OK 00:00:00.1795180
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CameronLillibridge/ OK OK 00:00:00.1764767
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CarmelaTerrazzino/ OK OK 00:00:00.1726607
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CarolynIvancovich/ OK OK 00:00:00.1708723
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CharlesMiska/ OK OK 00:00:00.1764870
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ChrisCrome/ OK OK 00:00:00.2459011
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ChristianChamberlin/ OK OK 00:00:00.2453772
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ChristopherDavis/ OK OK 00:00:00.1684053
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ChulaVista/ OK OK 00:00:00.5576251
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CindyMacDonell/ OK OK 00:00:00.1712379
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CleElum/ OK OK 00:00:00.2084390
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CoreyGile/ OK OK 00:00:00.5608438
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Corona/ OK OK 00:00:00.1986698
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CostaMesa/ OK OK 00:00:00.2911063
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CovenantMortgage/ OK OK 00:00:00.2098235
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CraigBrewer/ OK OK 00:00:00.1888866
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CraigGoebbel/ OK OK 00:00:00.1690170
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Crome/ OK OK 00:00:00.1658221
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CurtisGruber/ OK OK 00:00:00.1698870
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CurtisWhitaker/ OK OK 00:00:00.2400978
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CurtLillibridge/ OK OK 00:00:00.1674677
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CynthiaStClair/ OK OK 00:00:00.1739598
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/danielbrinkman/ OK OK 00:00:00.1683895
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DanielKing/ OK OK 00:00:00.1786859
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/danielkrueger/ OK OK 00:00:00.1732631
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DanielMarkMeckel/ OK OK 00:00:00.1727672
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DavidBertschi/ OK OK 00:00:00.2376813
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DavidBonnell/ OK OK 00:00:00.2230683
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DavidCampellone/ OK OK 00:00:00.1720868
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DavidDanz/ OK OK 00:00:00.2029429
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DavidHorton/ OK OK 00:00:00.2433058
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DavidJensen/ OK OK 00:00:00.2451755
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DavidSambell/ OK OK 00:00:00.1717254
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DeanHayes/ OK OK 00:00:00.5600131
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DeannaAvakian/ OK OK 00:00:00.1933600
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DeloresTuson/ OK OK 00:00:00.1815880
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DennisKonczal/ OK OK 00:00:00.1750067
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DerrickCarneal/ OK OK 00:00:00.1691459
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DJCaple/ OK OK 00:00:00.2346713
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DJMartin/ OK OK 00:00:00.1720714
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DoloresTucson/ OK OK 00:00:00.1789058
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DonMacKenzie/ OK OK 00:00:00.2470027
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DougSchreifels/ OK OK 00:00:00.2971969
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DustinBoyd/ OK OK 00:00:00.6723233
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ElfaKagan/ OK OK 00:00:00.1708909
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/EliPavoni/ OK OK 00:00:00.1755801
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/EMACSealBeach/ OK OK 00:00:00.1721200
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Entela/ OK OK 00:00:00.1884294
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ESharma/ OK OK 00:00:00.1913385
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/EvaSharma/ OK OK 00:00:00.1892802
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Everett/ OK OK 00:00:00.2334100
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/FrancescaWander/ OK OK 00:00:00.1986488
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/FrankBillante/ OK OK 00:00:00.1868469
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/GaryBlacken/ OK OK 00:00:00.1733075
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/GeneAvakian/ OK OK 00:00:00.5393988
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/GeorgeAdairII/ OK OK 00:00:00.2299470
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/GeorgeCharles/ OK OK 00:00:00.6803849
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/GeraldMoore/ OK OK 00:00:00.1694135
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Gilbert/ OK OK 00:00:00.1714448
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/GilLazcano/ OK OK 00:00:00.4796478
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/GingerPaterno/ OK OK 00:00:00.1724020
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/GraysonBourland/ OK OK 00:00:00.1708083
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/GregWaldie/ OK OK 00:00:00.1761195
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/HannahBoles/ OK OK 00:00:00.2116979
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/hayes/ OK OK 00:00:00.2164627
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/HectorYango/ OK OK 00:00:00.2325438
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Henderson/ OK OK 00:00:00.2473837
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/HometownLendingHarris/ OK OK 00:00:00.2413665
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Irvine/ OK OK 00:00:00.1615546
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JackSanteford/ OK OK 00:00:00.1651791
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JasminMoralesDeLeal/ OK OK 00:00:00.2337556
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JasonAsher/ OK OK 00:00:00.1626249
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JasonHarris/ OK OK 00:00:00.5289698
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JayJaffee/ OK OK 00:00:00.1661275
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JedThibodeau/ OK OK 00:00:00.1859541
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JeffHarris/ OK OK 00:00:00.1661401
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JeffJourney/ OK OK 00:00:00.5223992
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JeffNicola/ OK OK 00:00:00.5717949
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JimMassey/ OK OK 00:00:00.5360596
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JoeFazio/ OK OK 00:00:00.2442784
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JoeJuliani/ OK OK 00:00:00.1617871
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JohnCady/ OK OK 00:00:00.1654000
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JohnFletcher/ OK OK 00:00:00.2101107
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JohnHensley/ OK OK 00:00:00.2098833
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JohnHunter/ OK OK 00:00:00.2096391
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JohnMarler/ OK OK 00:00:00.1869099
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JohnMurphy/ OK OK 00:00:00.5377957
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JohnVerstegen/ OK OK 00:00:00.1651917
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JonathanHallstead/ OK OK 00:00:00.2159458
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JonathanMatich/ OK OK 00:00:00.1626977
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JonBaughman/ OK OK 00:00:00.1647369
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JoseLlerandi/ OK OK 00:00:00.1589672
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JosephRestivo/ OK OK 00:00:00.1790169
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JSolati/ OK OK 00:00:00.1634967
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JuanKong/ OK OK 00:00:00.1623368
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JudyChen/ OK OK 00:00:00.1618002
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JustinGlass/ OK OK 00:00:00.1833648
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KellyTrueb/ OK OK 00:00:00.1665651
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KenWynne/ OK OK 00:00:00.2657342
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KevinBagley/ OK OK 00:00:00.4758361
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KevinKilleen/ OK OK 00:00:00.2139958
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KevinLaursen/ OK OK 00:00:00.1867236
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KevinPhillips/ OK OK 00:00:00.2885964
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KhashBehnam/ OK OK 00:00:00.1784953
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KielLillibridge/ OK OK 00:00:00.1855982
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KimberlyLouis/ OK OK 00:00:00.5489495
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KittyLee/ OK OK 00:00:00.1696694
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KristineEstill/ OK OK 00:00:00.1770954
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/kussman/ OK OK 00:00:00.1648326
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LakeForest/ OK OK 00:00:00.1643732
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LakeOswego/ OK OK 00:00:00.2370761
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/lakestevens/ OK OK 00:00:00.7891785
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Larkspur/ OK OK 00:00:00.2513837
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LarryMcDowell/ OK OK 00:00:00.1697520
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LeviGarrett/ OK OK 00:00:00.2352489
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LilyetteUriarte/ OK OK 00:00:00.1834684
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LindaAnnCox/ OK OK 00:00:00.1680023
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LoanCentral/ OK OK 00:00:00.2370527
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LoretteMurphree/ OK OK 00:00:00.1803823
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LouMarino/ OK OK 00:00:00.1855329
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LucasFilinski/ OK OK 00:00:00.1633487
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LuisaRosas-Ferguson/ OK OK 00:00:00.1614874
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LuisaRosasFerguson/ OK OK 00:00:00.3418384
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LuisAWong/ OK OK 00:00:00.1716157
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LuisMarquez/ OK OK 00:00:00.2243660
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/LyndaLima/ OK OK 00:00:00.1661126
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MagaliCarrillo/ OK OK 00:00:00.1890117
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MarciaMurphy/ OK OK 00:00:00.2383850
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MarjorieBearman/ OK OK 00:00:00.6679083
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MarkKnodel/ OK OK 00:00:00.5355016
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MarkMalmberg/ OK OK 00:00:00.2320292
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/markobrien/ OK OK 00:00:00.1590970
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MarkSorensen/ OK OK 00:00:00.2710547
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/martinlough/ OK OK 00:00:00.1743805
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/matich/ OK OK 00:00:00.1719771
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MattDill/ OK OK 00:00:00.3205989
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MatthewCarey/ OK OK 00:00:00.1758001
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MelanieMcCullough/ OK OK 00:00:00.2205920
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MelissaEvans/ OK OK 00:00:00.2248143
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MelodyRose/ OK OK 00:00:00.1637395
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Mesa/ OK OK 00:00:00.1612973
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MichaelErtem/ OK OK 00:00:00.1615495
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MichaelHale/ OK OK 00:00:00.1633043
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MichaelKotcharian/ OK OK 00:00:00.2078548
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MichaelTang/ OK OK 00:00:00.3250270
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MichelleKramer/ OK OK 00:00:00.1854932
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MitchellSchultz/ OK OK 00:00:00.4717390
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MitchFalkenstein/ OK OK 00:00:00.1866424
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Modesto/ OK OK 00:00:00.2178463
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/NancyOsco/ OK OK 00:00:00.1695592
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/NewportBeach/ OK OK 00:00:00.1697773
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/nicola/ OK OK 00:00:00.1775021
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/NooshiNaderi/ OK OK 00:00:00.1648317
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PacificBay/ OK OK 00:00:00.1779364
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PacificOneMortgage/ OK OK 00:00:00.1643834
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PacificOneMortgageHawaii/ OK OK 00:00:00.2197856
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PatriciaBoudreau/ OK OK 00:00:00.1577003
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PatriciaMaestas/ OK OK 00:00:00.1656867
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PaulaKrost/ OK OK 00:00:00.1592772
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PaulDuPriest/ OK OK 00:00:00.2239663
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/paulmoffitt/ OK OK 00:00:00.2212388
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/paulstella/ OK OK 00:00:01.3778679
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PaulStMarie/ OK OK 00:00:00.1770707
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PaulTrinkwon/ OK OK 00:00:00.1685552
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PeterSemon/ OK OK 00:00:00.3255421
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PortlandSchabow/ OK OK 00:00:00.1589518
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/rachelmcvay/ OK OK 00:00:00.2297617
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RandyBrockway/ OK OK 00:00:00.1644722
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RayFerguson/ OK OK 00:00:00.2206882
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ReneDelosSantos/ OK OK 00:00:00.3544029
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ReubenBerlin/ OK OK 00:00:00.1643377
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RichardSanguinetti/ OK OK 00:00:00.1709409
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RileyLillibridge/ OK OK 00:00:00.4773434
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RindaNorris/ OK OK 00:00:00.1740247
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RobbGordon/ OK OK 00:00:00.3882451
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RobertFritscher/ OK OK 00:00:00.2894197
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RobertScott/ OK OK 00:00:00.1749320
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RodneyJong/ OK OK 00:00:00.1659767
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RogerFarah/ OK OK 00:00:00.2255422
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RonaldPerkins/ OK OK 00:00:00.1695036
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RonaldSchmidtke/ OK OK 00:00:00.1977854
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RonMohney/ OK OK 00:00:00.2426969
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RonRoss/ OK OK 00:00:00.2906436
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RorieLujan/ OK OK 00:00:00.2346512
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RoryMiller/ OK OK 00:00:00.2696912
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RPhillips/ OK OK 00:00:00.3338563
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SabrinaLinman/ OK OK 00:00:00.3108890
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SallyYip/ OK OK 00:00:00.2706527
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SaltLakeCity/ OK OK 00:00:00.2471540
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SamBorthwick/ OK OK 00:00:00.4123303
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SanDiego/ OK OK 00:00:00.3406958
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SanFrancisco/ OK OK 00:00:00.6213605
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SanFrancisco2/ OK OK 00:00:00.1949407
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/sanfrancisco3/ OK OK 00:00:00.2080598
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SanJose/ OK OK 00:00:00.2211860
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SanRamon/ OK OK 00:00:00.2575059
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SantaRosa/ OK OK 00:00:00.4117639
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SantaRosaSorensen/ OK OK 00:00:00.2368482
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ScottFletcher/ OK OK 00:00:00.5295352
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SelbyVoto-Bernales/ OK OK 00:00:00.2595358
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ShaneTorabi/ OK OK 00:00:00.2324042
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Spanaway/ OK OK 00:00:00.2485688
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/StanStanek/ OK OK 00:00:00.2554443
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SteveMcNeal/ OK OK 00:00:00.2133402
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/StevenCook/ OK OK 00:00:00.1783674
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/StevenVella/ OK OK 00:00:00.2306083
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SteveSchabow/ OK OK 00:00:00.1770912
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Stockton/ OK OK 00:00:00.1683736
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SusanBrethauer/ OK OK 00:00:00.1691795
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SusanKing/ OK OK 00:00:00.1713509
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SuzanneMorris/ OK OK 00:00:00.1691571
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Tempe/ OK OK 00:00:00.1845037
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TheJensenMortgageGroup/ OK OK 00:00:00.1710203
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TheresaEasland/ OK OK 00:00:00.1754195
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ThomasBergquist/ OK OK 00:00:00.1721144
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ThomasMurray/ OK OK 00:00:00.4740126
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ThomasSebring/ OK OK 00:00:00.1702083
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TimCarroll/ OK OK 00:00:00.1760434
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TimothyStrange/ OK OK 00:00:00.1726159
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ToddArnold/ OK OK 00:00:00.1754611
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TomMcGovern/ OK OK 00:00:00.2966407
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/torrance/ OK OK 00:00:00.1945400
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TracieMaganas/ OK OK 00:00:00.2246312
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Tustin/ OK OK 00:00:00.1745967
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TysonBeachwood/ OK OK 00:00:00.1724823
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Vancouver/ OK OK 00:00:00.2337705
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/VanRooy/ OK OK 00:00:00.2188218
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/VincentKing/ OK OK 00:00:00.2722412
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/WalnutCreek/ OK OK 00:00:00.2183782
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Wenatchee/ OK OK 00:00:00.1716455
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ZacharyTodd/ OK OK 00:00:00.2231799
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ZachHardin/ OK OK 00:00:00.1712318
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/AnthonyColagrossi/ OK OK 00:00:00.2358816
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JasonScott/ OK OK 00:00:00.1982864
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RobertJack/ OK OK 00:00:00.2380730
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ChrisKeadle/ OK OK 00:00:00.1713920
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DavidOziel/ OK OK 00:00:00.1654999
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MarcEilers/ OK OK 00:00:00.5792116
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ToddJohnson/ OK OK 00:00:00.1680574
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JustinVonWolffradt/ OK OK 00:00:00.5855472
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/WenatcheeChamberlin/ OK OK 00:00:00.1850468
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Seattle/ OK OK 00:00:00.2193042
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TarayaCaple/ OK OK 00:00:00.1782086
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BennyHowes/ OK OK 00:00:00.1796436
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PortAngeles/ OK OK 00:00:00.2179369
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Auburn/ OK OK 00:00:00.1746308
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CoronaKing/ OK OK 00:00:00.1707429
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DanaBarbero/ OK OK 00:00:00.1811631
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JimBarbero/ OK OK 00:00:00.1659921
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KathleenLaibinis/ OK OK 00:00:00.4848222
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/StevenHolmes/ OK OK 00:00:00.1736689
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Cheney/ OK OK 00:00:00.1690035
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MollySeefried/ OK OK 00:00:00.1693500
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/DarrenKochansky/ OK OK 00:00:00.2331882
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ErikOlson/ OK OK 00:00:00.1861917
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MichaelColagrossi/ OK OK 00:00:00.3494400
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/FrankHelmand/ OK OK 00:00:00.6998192
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SiliconValley/ OK OK 00:00:00.2264855
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BryanBrush/ OK OK 00:00:00.2345480
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ShaneHale/ OK OK 00:00:00.1809501
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BuddyGreene/ OK OK 00:00:00.2289155
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TouchstoneGroup/ OK OK 00:00:00.2451283
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Sedona/ OK OK 00:00:00.1678954
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/KirkMcdougall/ OK OK 00:00:00.1672207
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BrianIverson/ OK OK 00:00:00.2280003
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JamieHughes/ OK OK 00:00:00.2242380
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Plano/ OK OK 00:00:00.1687359
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Chandler/ OK OK 00:00:00.4677675
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JayErickson/ OK OK 00:00:00.5443270
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ClintWhitney/ OK OK 00:00:00.2373922
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JerryFish/ OK OK 00:00:00.3531841
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BrianThaut/ OK OK 00:00:00.1934179
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/WendyCharles/ OK OK 00:00:00.2977376
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/TonyLong/ OK OK 00:00:00.1966628
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ClayChadima/ OK OK 00:00:01.4417925
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/SuhaGibson/ OK OK 00:00:00.5419778
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BrianBillups/ OK OK 00:00:00.3549212
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RickJones/ OK OK 00:00:00.2400852
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/noemilightle/ OK OK 00:00:00.2770766
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/dominicgonzalez/ OK OK 00:00:00.1733000
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/christophercatania/ OK OK 00:00:00.2389533
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CraigBramlett/ OK OK 00:00:00.5422524
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/CalPacific/ OK OK 00:00:00.2176124
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/bakersfield/ OK OK 00:00:00.1703525
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BobEnnis/ OK OK 00:00:00.1659384
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/scottfisher/ OK OK 00:00:00.2193303
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/RandyGelhaus/ OK OK 00:00:00.1660421
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/Puyallup/ OK OK 00:00:00.2878297
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/EncinitasRafii/ OK OK 00:00:00.1844869
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/PeterHomer/ OK OK 00:00:00.1909019
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/FrankMandujano/ OK OK 00:00:00.4057000
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/FederalWay/ OK OK 00:00:00.1654897
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/BlakeAndrews/ OK OK 00:00:00.3645555
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/ScottDemich/ OK OK 00:00:00.2280451
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/JeffCreveling/ OK OK 00:00:00.2529284
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MelodySill/ OK OK 00:00:00.1922360
+12/7/2014 8:06:12 PM ==> http://www.bayeqloans.com/MarkLoftus/ OK OK 00:00:00.3295495
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/AngelinaPurvis/ OK OK 00:00:17.3401700
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/AnthonyCiullo/ OK OK 00:00:18.2055214
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ArronGlasburg/ OK OK 00:00:18.2993238
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/bankrate/ OK OK 00:00:17.1992712
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/BillRichardson/ OK OK 00:00:22.1977662
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ChelseaRousseau/ OK OK 00:00:17.6653363
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/CherylVickers/ OK OK 00:00:16.6560391
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ChrisMarcketta/ OK OK 00:00:16.0543360
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ChristinaFuscaldo/ OK OK 00:00:15.7818272
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ChristopherDold/ OK OK 00:00:16.9981541
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/DaleGallant/ OK OK 00:00:16.4026732
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/DamarnCarroll/ OK OK 00:00:16.0365464
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/DaveLoring/ OK OK 00:00:16.1182410
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/DavidFernandes/ OK OK 00:00:16.9984440
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/DavidHarris/ OK OK 00:00:16.5610651
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/DominicMacera/ OK OK 00:00:14.8537265
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/DuaneMurphy/ OK OK 00:00:13.9899127
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/EddieZolkos/ OK OK 00:00:19.2011848
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/EdwinArocho/ OK OK 00:00:22.0380257
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ElishaHarris/ OK OK 00:00:18.4385210
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/experience-real-estate/ OK OK 00:00:11.2300488
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/FelixBrito/ OK OK 00:00:18.1735876
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/FernandoSaenz/ OK OK 00:00:18.3953854
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/GaryPickering/ OK OK 00:00:25.4348792
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/GregorySouran/ OK OK 00:00:16.0572354
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/help-your-friends-and-family-reach-financial-peace/ OK OK 00:00:16.4784949
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/HoneyManderville/ OK OK 00:00:17.2663721
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JackAlbanese/ OK OK 00:00:20.7769760
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JamesFiorendino/ OK OK 00:00:21.1782409
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JasonFitzgerald/ OK OK 00:00:18.7043795
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/jcolombrita/ OK OK 00:00:19.4625455
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JeffPennington/ OK OK 00:00:18.5829790
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JeffreyKrasner/ OK OK 00:00:16.9706521
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JerryAuclair/ OK OK 00:00:14.9339768
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JoanneSebeck/ OK OK 00:00:17.1209102
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JoeCiullo/ OK OK 00:00:22.8119814
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JohnDiGiacomo/ OK OK 00:00:17.7402759
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JohnSebeck/ OK OK 00:00:16.4162663
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/josephmorreale/ OK OK 00:00:22.3536800
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JosephSheridan/ OK OK 00:00:19.5920183
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JoshuaShein/ OK OK 00:00:24.6505949
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/KarenCabral/ OK OK 00:00:24.4602173
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/KevinEddens/ OK OK 00:00:20.0857030
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/KevinFloersch/ OK OK 00:00:21.5279177
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/KimberlyAngelillo/ OK OK 00:00:18.7443581
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/KristieGriffoul/ OK OK 00:00:18.7838813
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/LisaChildress/ OK OK 00:00:16.4369516
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/low-mortgage-rates-yp-new-jersey/ OK OK 00:00:15.0486354
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/low-mortgage-rates-yp-rhode-island/ OK OK 00:00:05.5746214
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/LuisNieto/ OK OK 00:00:24.0469166
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MacyJKorolnek/ OK OK 00:00:23.0156257
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MariaTarro/ OK OK 00:00:22.5670473
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MarkRamos/ OK OK 00:00:16.1762563
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MaryAnn/ OK OK 00:00:20.6417432
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MaryFoster/ OK OK 00:00:16.5886731
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MatthewKing/ OK OK 00:00:17.5139104
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MatthewMathias/ OK OK 00:00:16.1889968
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MatthewWallace/ OK OK 00:00:17.7115104
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MattResnick/ OK OK 00:00:17.5380684
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MattRicci/ OK OK 00:00:15.6573966
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MauricioRojas/ OK OK 00:00:17.5858582
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MelissaCarreiro/ OK OK 00:00:15.7821130
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MelissaTessmer/ OK OK 00:00:18.4335690
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MichaelCandia/ OK OK 00:00:15.6410237
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MichaelGregorian/ OK OK 00:00:14.9722174
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MichaelPetruccelli/ OK OK 00:00:16.9730229
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/michaelreis/ OK OK 00:00:17.9311167
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MikeArdis/ OK OK 00:00:19.2081499
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MikeFontane/ OK OK 00:00:20.9448177
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MikeHealey/ OK OK 00:00:19.5466137
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MikeQuin/ OK OK 00:00:19.4844631
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MikeRomano/ OK OK 00:00:17.0008531
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MilissaFuscaldo/ OK OK 00:00:20.5140150
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/NealFerestien/ OK OK 00:00:21.7470029
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/NeilRusso/ OK OK 00:00:15.3959369
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/NiahBononno/ OK OK 00:00:15.2582479
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/NickIzzi/ OK OK 00:00:17.9668432
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/NormZolkos/ OK OK 00:00:16.0070038
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/omarsmith/ OK OK 00:00:15.4104868
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/optout/ OK OK 00:00:19.6400925
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/PatSarro/ OK OK 00:00:16.5913431
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/PaulYoung/ OK OK 00:00:20.1010645
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ppn/ OK OK 00:00:21.4569957
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ppn/ OK OK 00:00:06.1824874
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/purchase-rhode-island/ OK OK 00:00:04.9070147
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/QR/ OK OK 00:00:16.3919103
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RachaelFleury/ OK OK 00:00:21.5367138
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RachaelMcMahon/ OK OK 00:00:17.5872857
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RachelFleury/ OK OK 00:00:17.7971504
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RalphVitiello/ OK OK 00:00:18.4808227
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ReneeDiorio/ OK OK 00:00:16.8741694
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RobertLivorsi/ OK OK 00:00:19.6627082
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RobertTravis/ OK OK 00:00:18.2088158
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RobSpear/ OK OK 00:00:20.4709620
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RonSebeckJr/ OK OK 00:00:21.2375211
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RonSebeckSr/ OK OK 00:00:17.7274196
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RoseannePietrunti/ OK OK 00:00:17.8307400
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/SamanthaSchlim/ OK OK 00:00:15.4797520
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/SamMillman/ OK OK 00:00:12.1905625
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/SheilaRobinson/ OK OK 00:00:19.9771545
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/StephenTomasetti/ OK OK 00:00:16.0359108
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/SteveScarfo/ OK OK 00:00:15.8983933
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/steveziemba/ OK OK 00:00:16.5873604
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/TerrenceReilly/ OK OK 00:00:16.6708249
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/TessAubourg/ OK OK 00:00:19.4029436
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ThomasOHearn/ OK OK 00:00:22.2280307
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/TimHensel/ OK OK 00:00:18.4545736
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ValerieJohnson/ OK OK 00:00:17.0954049
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/wpro-referral/ OK OK 00:00:15.0283564
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ZacharyLevesque/ OK OK 00:00:18.4053372
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ZackLevesque/ OK OK 00:00:19.0112144
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/AndrewMesale/ OK OK 00:00:18.2564133
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RichardKuntz/ OK OK 00:00:18.2314072
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/TiffaniRodgers/ OK OK 00:00:16.4761036
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/BrianLewis/ OK OK 00:00:15.5765331
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/BarryBranker/ OK OK 00:00:19.6432001
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/josephcora/ OK OK 00:00:15.7036879
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/AnthonyMartini/ OK OK 00:00:22.9539608
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/AlfredVelasco/ OK OK 00:00:23.4318090
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/christinemarcketta/ OK OK 00:00:19.8185366
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/iansandler/ OK OK 00:00:18.4008535
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JessicaHanson/ OK OK 00:00:18.9720301
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JosephColombrita/ OK OK 00:00:17.7257956
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JustinFreedman/ OK OK 00:00:16.8348362
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/LindaReimer/ OK OK 00:00:16.8807806
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RaquelCasalinho/ OK OK 00:00:16.7762671
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/FrancisMaselli/ OK OK 00:00:16.7018551
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MarioRoberts/ OK OK 00:00:16.9818582
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MichaelOlatoye/ OK OK 00:00:18.7583700
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/Jefferydray/ OK OK 00:00:17.4477514
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/richardtaylor/ OK OK 00:00:17.7121791
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/TimMorrow/ OK OK 00:00:20.6759885
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MargaretPapresta/ OK OK 00:00:17.1122304
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/stephenziemba/ OK OK 00:00:17.1713378
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/BrianKrasner/ OK OK 00:00:18.1954683
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/SandraWaters/ OK OK 00:00:20.4783058
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/AliJavahery/ OK OK 00:00:15.7889301
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/BabetteStrom/ OK OK 00:00:14.3541306
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/BobDellaPorta/ OK OK 00:00:13.0731838
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/BobKetler/ OK OK 00:00:13.3997958
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/CiroDiPalma/ OK OK 00:00:15.2296963
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/CraigHall/ OK OK 00:00:14.8561859
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/EricTillman/ OK OK 00:00:06.0390684
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/GordonWilliamAlderman/ OK OK 00:00:21.9849705
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/GrantWoolwine/ OK OK 00:00:18.1749516
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JayneConnell/ OK OK 00:00:12.7580278
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JoeBoiano/ OK OK 00:00:12.6829662
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/JohnBolton/ OK OK 00:00:16.7676910
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/KenTo/ OK OK 00:00:12.2761347
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/LisaDellaPorta/ OK OK 00:00:13.5169657
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/MichaelSamuelson/ OK OK 00:00:14.3185891
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/NealBostian/ OK OK 00:00:17.9429980
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/PatrickStewart/ OK OK 00:00:15.7618157
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/RachelTo/ OK OK 00:00:14.7090878
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ShannonReedy/ OK OK 00:00:15.2343252
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/ShantelRamirez/ OK OK 00:00:15.8901650
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/VickiLynnRaus/ OK OK 00:00:13.5214578
+12/7/2014 8:06:12 PM ==> http://homes.maverickfunding.com/WillAdams/ OK OK 00:00:16.7064313
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/AmyUnglaub/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/BobGlezen/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/BrianGerri/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/BrienBrandenburg/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/BruceWhitney/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/DamarnCarroll/ OK OK 00:00:13.4334938
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/DarrynMurdoch/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/DebraSanteufemio/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/DonnaRouse/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/ericmcintyre/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/EricWyszkowski/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/FrederickArchable/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/GailZambuto-Polhemus/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/IanSandler/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/JasonLambert/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/JosephNittoli/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/JoshShein/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/LarryErnstoff/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/LindaHochberg/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/LisaChambers/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/MaryScheeler/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/OmarSmith/ OK OK 00:00:14.3421966
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/RichPert/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/RobertKopcha/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/RosemaryWright/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/SamMillman/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/SheriSica/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/StevenSless/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/VickiGreen/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/WendyFitzgerald/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/JessicaHanson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/josephsusserman/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.reversemortgagenetwork.org/stevesless/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.mcfmortgage.com/AaronEisenberg/ OK OK 00:00:00.7454993
+12/7/2014 8:06:12 PM ==> http://www.mcfmortgage.com/AmirGuerami/ OK OK 00:00:00.0810717
+12/7/2014 8:06:12 PM ==> http://www.mcfmortgage.com/RayCruz/ OK OK 00:00:00.1011565
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/ScottBuie/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/ScottShort/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/ScottWard/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/SonyaStJacques/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/SteveWalden/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/TiffaniHom/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/TiffanyLe/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/TimothyHurlbut/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/TonyRodriguez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/KathyMcAlpine/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/TomEngwer/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/SandyMarchman/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/SuzanneNunez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JulietteBrossard/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/LuzDePalm/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/VanKZannisIII/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/PatriciaVillalobos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/SarbHundle/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/ConnieWilkinson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/KevinConlon/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JoeSprecher/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/KimBristow/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/RicciVineyard/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/SheilaPott/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/BlancaMejia/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/BillSimpson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/CyndiFazzio/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/DiannePinheiro/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/GregSherman/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/LoriJustice/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/ZhabizSonee/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/BuffyPenttila/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/AnthonyLatos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/AyataColbert/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/BrianLinchey/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/BrianMoggan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/ChadFocht/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/CharlesEriman/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/ChrisOpfer/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/ChristieCraig/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/CynthiaKemp/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/DanDaniel/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/DaveOsorio/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/DebbieSundlie/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/DinaErickson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/FeliciaBattaglia/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/GregHeffron/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JamesHarrington/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JenniferMizeClaunch/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JesseRenteria/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JonasChampion/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JulieBell/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/KarenCreagmile/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/KarinMoscato/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/KarlaSussanaSerranoCastaneda/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/KavehSartipi/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/MargieCarino/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/MarjorieBirky/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/MitchMilinich/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/PamBranigan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/PaulineShah/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/RafaelGarcia/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/RamonVerdin/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/RandyLynch/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/ReneeNunes/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/StephenWatts/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/StuartDavis/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/SuzyDukelow/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/TeriBanholzer/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/TomParke/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/VictorBurela/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/AlanGreen/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/AlanWataguchi/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/AndrewMahoney/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/AshleighSperos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/BrandonMears/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/DanielShoda/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/DaveHeard/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/DaveWhiteside/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/GilFaust/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/GregAcohido/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JamieReed/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JimmieShaban/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/JoeAcker/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/KathieRobinson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/LynnBossiKinsel/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/MarcThompson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/MarkHood/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/PaulaHarrell/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/PeteDougherty/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.masonmcduffiemortgage.com/RayGin/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.mortgagewilmingtonnc.com/TomLaakmann/ OK OK 00:00:07.8238758
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/AllenRose/ OK OK 00:00:00.2822514
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/AmyBurzacki/ OK OK 00:00:00.0816713
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/AndyJohnson/ OK OK 00:00:00.0889497
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/DarnellCanty/ OK OK 00:00:00.0951505
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/DavidAtis/ OK OK 00:00:00.0841008
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/EliotFeldman/ OK OK 00:00:00.0845024
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/GregDeminco/ The remote server returned an error: (503) Server Unavailable.
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/JeffreyClauso/ The remote server returned an error: (503) Server Unavailable.
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/JoeBell/ The remote server returned an error: (503) Server Unavailable.
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/JohnKralle/ The remote server returned an error: (503) Server Unavailable.
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/JudeBrennan/ The remote server returned an error: (503) Server Unavailable.
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/LutherWiley/ The remote server returned an error: (503) Server Unavailable.
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/MikeThompson/ The remote server returned an error: (503) Server Unavailable.
+12/7/2014 8:06:12 PM ==> http://www.PFGmortgagecenter.com/robertsimiriglio/ OK OK 00:00:00.0877599
+12/7/2014 8:06:12 PM ==> http://www.nalending.net/AlanLester/ OK OK 00:00:11.8263773
+12/7/2014 8:06:12 PM ==> http://www.nalending.net/JaneKellogg/ OK OK 00:00:14.1839209
+12/7/2014 8:06:12 PM ==> http://www.nalending.net/JasonJohnson/ OK OK 00:00:14.5987757
+12/7/2014 8:06:12 PM ==> http://www.nalending.net/MurdockRichard/ OK OK 00:00:21.3063502
+12/7/2014 8:06:12 PM ==> http://www.nalending.net/TomGilley/ OK OK 00:00:13.6748818
+12/7/2014 8:06:12 PM ==> http://www.nalending.net/BetsySabogal/ OK OK 00:00:16.4085671
+12/7/2014 8:06:12 PM ==> http://www.nalending.net/AlexPatton/ OK OK 00:00:15.5022509
+12/7/2014 8:06:12 PM ==> http://www.nalending.net/LynnTheriot/ OK OK 00:00:16.3973555
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/AndyMikolich/ OK OK 00:00:18.1539810
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Celina/ OK OK 00:00:05.3274207
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Cesar/ OK OK 00:00:05.0094409
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Claudia/ OK OK 00:00:23.7458682
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Lillian/ OK OK 00:00:06.6100569
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Lisa/ OK OK 00:00:06.4212959
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Mathan/ OK OK 00:00:11.4783773
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Raul/ OK OK 00:00:06.8462052
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Ray/ OK OK 00:00:05.8737832
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Pauline/ OK OK 00:00:07.8588093
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Marta/ OK OK 00:00:05.6542217
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Michael/ OK OK 00:00:06.5700657
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Stephany/ OK OK 00:00:21.7292184
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/kingteam/ OK OK 00:00:25.5952385
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/alfonso/ OK OK 00:00:06.4981903
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/Dalila/ OK OK 00:00:06.4334527
+12/7/2014 8:06:12 PM ==> http://www.pointmtg.com/JuanCarlos/ OK OK 00:00:18.5012152
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/DerekBollman/ OK OK 00:00:25.8862524
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/DBollman/ OK OK 00:00:09.9752283
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/DPelley/ OK OK 00:00:22.9851227
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/GGarcia/ OK OK 00:00:18.4087380
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/TJarboe/ OK OK 00:00:11.4262755
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/TZamora/ OK OK 00:00:09.4122141
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/RFrench/ OK OK 00:00:26.6002522
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/MBernardo/ OK OK 00:00:24.4629004
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/MGonzalez/ OK OK 00:00:28.3476091
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/LHerreraGrubb/ OK OK 00:00:25.2606616
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/CMcCann/ OK OK 00:00:23.7565270
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/DWizelman/ OK OK 00:00:29.6480929
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/EKabir/ OK OK 00:00:24.9369663
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/PRussel/ OK OK 00:00:24.5928645
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/VRivara/ OK OK 00:00:31.6691107
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/ABaca/ OK OK 00:00:25.6326460
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/JLucia/ OK OK 00:00:29.4437603
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/LSanders/ OK OK 00:00:22.5396855
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/LOwen/ OK OK 00:00:22.1690497
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/MRamirez/ OK OK 00:00:34.5427441
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/AdielPosada/ OK OK 00:00:27.8415333
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/mmirza/ OK OK 00:00:28.4527483
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/ralvarez/ OK OK 00:00:24.9667442
+12/7/2014 8:06:12 PM ==> http://www.prmicalifornia.com/sknipping/ OK OK 00:00:24.9420006
+12/7/2014 8:06:12 PM ==> http://www.qualityoneloans.com/Danaize/ OK OK 00:00:15.3815546
+12/7/2014 8:06:12 PM ==> http://www.qualityoneloans.com/Jonathan/ OK OK 00:00:20.9847435
+12/7/2014 8:06:12 PM ==> http://www.qualityoneloans.com/Rebeca/ OK OK 00:00:15.5895439
+12/7/2014 8:06:12 PM ==> http://www.qualityoneloans.com/Vincent/ OK OK 00:00:15.6864992
+12/7/2014 8:06:12 PM ==> http://www.qualityoneloans.com/Rocio/ OK OK 00:00:15.8909318
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/AParsons/ OK OK 00:00:13.0458617
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/CReale/ OK OK 00:00:04.3012057
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/GTeixeira/ OK OK 00:00:11.9722440
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/JGuertin/ OK OK 00:00:12.0789620
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/JHackett/ OK OK 00:00:12.3260898
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/JKosh/ OK OK 00:00:12.2402528
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/JVonFlatern/ OK OK 00:00:13.9442392
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/ldiaz/ OK OK 00:00:10.0054377
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/PPederzani/ OK OK 00:00:14.7200641
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/RGilbert/ OK OK 00:00:13.3960886
+12/7/2014 8:06:12 PM ==> http://mortgage.randolphsavings.com/RKirwin/ OK OK 00:00:12.6225111
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/AaronSwanson/ OK OK 00:00:17.8642312
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/AileenDimmick/ OK OK 00:00:16.6023465
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/AngelaKaltschnee/ OK OK 00:00:16.2579136
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/BethanyWoods/ OK OK 00:00:16.2987831
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/BrendaReynolds/ OK OK 00:00:16.2820114
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/CarrieMorton/ OK OK 00:00:15.9003218
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/CeciliaJarvis/ OK OK 00:00:16.0754140
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/ChristinaHudson/ OK OK 00:00:18.4326154
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/ChristineSkinner/ OK OK 00:00:17.2914659
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/DeborahDaniels/ OK OK 00:00:15.4798827
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/DebraMcCormack/ OK OK 00:00:15.9314660
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/DonaldPresserJr/ OK OK 00:00:17.0031734
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/ElizabethGuillory/ OK OK 00:00:19.6732185
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/HenriettaStaser/ OK OK 00:00:15.3599167
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/IanFryer/ OK OK 00:00:15.6787076
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/JamesDiMaggio/ OK OK 00:00:15.5094570
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/JamesMcCormack/ OK OK 00:00:15.7644125
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/JamesMechem/ OK OK 00:00:15.9827884
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/JeanneMee/ OK OK 00:00:15.3770610
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/JohnnieHighstone/ OK OK 00:00:19.9281856
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/JosephBrammer/ OK OK 00:00:15.5699882
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/JoshuaMcKinney/ OK OK 00:00:17.4336278
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/KameeKing/ OK OK 00:00:19.2437461
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/KatherineZerkel/ OK OK 00:00:17.2149213
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/KrisStephens/ OK OK 00:00:19.0714094
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/LauraMiley/ OK OK 00:00:21.8081421
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/LindsaySchram/ OK OK 00:00:21.1229741
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/MandyLaRose/ OK OK 00:00:17.3039033
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/MaryPippin/ OK OK 00:00:17.4718221
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/NicholasAkers/ OK OK 00:00:16.2530745
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/NicoleMonroe/ OK OK 00:00:15.7301383
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/ReneFortuny/ OK OK 00:00:13.3095231
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/RichardGeorge/ OK OK 00:00:16.3851445
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/RichardMantyla/ OK OK 00:00:20.6211518
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/RonicaAldrich/ OK OK 00:00:19.6941910
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/SomerMahfouz/ OK OK 00:00:20.5519707
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/StellaWurst/ OK OK 00:00:20.6248907
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/SteveAldrich/ OK OK 00:00:20.3875620
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/TaraBarndt/ OK OK 00:00:22.6274520
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/TracyOttinger/ OK OK 00:00:20.1385887
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/VickiePerry/ OK OK 00:00:19.0030651
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/HildegardStapgens / The remote server returned an error: (500) Internal Server Error.
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/JessicaSamuel / The remote server returned an error: (500) Internal Server Error.
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/JoshuaGood / The remote server returned an error: (500) Internal Server Error.
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/SoftVuMarketing / The remote server returned an error: (500) Internal Server Error.
+12/7/2014 8:06:12 PM ==> http://www.resmtg.com/TawniSLayne-Laxa/ OK OK 00:00:20.0951355
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/DALLAS/ OK OK 00:00:19.2460617
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/HAWAII/ OK OK 00:00:17.9850396
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/ORLANDO/ OK OK 00:00:17.6853514
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/SAFETYHARBOR/ OK OK 00:00:06.1712995
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/VALENCIA/ OK OK 00:00:18.9261810
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/CurtONeil/ OK OK 00:00:21.4263227
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/DaveHay/ OK OK 00:00:22.1592651
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/JoseTortolero/ OK OK 00:00:15.3863628
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/KarlaSerrano/ OK OK 00:00:17.5429551
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/NathanielBittman/ OK OK 00:00:19.8436972
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/RocoFilbur/ OK OK 00:00:19.3780421
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/SamBlumner/ OK OK 00:00:24.9361828
+12/7/2014 8:06:12 PM ==> http://www.snmc.ws/TraceeWilliams/ OK OK 00:00:18.7892378
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/NancyBarlow/ OK OK 00:00:19.7998153
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/AshleyHickmon/ OK OK 00:00:18.8688260
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/BlakeDiMeo/ OK OK 00:00:21.3400916
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/ChrisMurray/ OK OK 00:00:19.9384783
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/CurtLundberg/ OK OK 00:00:18.0389036
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/DaveLeonard/ OK OK 00:00:16.3620470
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/DebraRickard/ OK OK 00:00:17.1380171
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/DevonHayes/ OK OK 00:00:17.5919492
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/HeatherDirschl/ OK OK 00:00:18.2420842
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/JodyAmend/ OK OK 00:00:18.7662107
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/JoelHouwer/ OK OK 00:00:17.0761509
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/KelliStrott/ OK OK 00:00:20.6561017
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/LainieChambers/ OK OK 00:00:18.1536154
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/MattAckerman/ OK OK 00:00:20.4300434
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/MicheleHaedrich/ OK OK 00:00:22.3552583
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/NancyFridstein/ OK OK 00:00:19.4039867
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/PeterCrane/ OK OK 00:00:22.3945789
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/SaraPipkin/ OK OK 00:00:20.0640903
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/ScottWeyand/ OK OK 00:00:19.8465587
+12/7/2014 8:06:12 PM ==> http://www.ulchomeloans.name/TomHerrera/ OK OK 00:00:18.7655948
+12/7/2014 8:06:12 PM ==> http://www.unitedresidential.net/ASchaber/ OK OK 00:00:00.6514317
+12/7/2014 8:06:12 PM ==> http://www.unitedresidential.net/BJamison/ OK OK 00:00:00.0494335
+12/7/2014 8:06:12 PM ==> http://www.unitedresidential.net/CPalmer/ OK OK 00:00:00.0492401
+12/7/2014 8:06:12 PM ==> http://www.unitedresidential.net/RWheeler/ OK OK 00:00:00.1038728
+12/7/2014 8:06:12 PM ==> http://www.unitedresidential.net/ZWhitfield/ OK OK 00:00:00.0490370
+12/7/2014 8:06:12 PM ==> http://www.texasfunded.com/DavidWagner/ OK OK 00:00:18.6751405
+12/7/2014 8:06:12 PM ==> http://www.texasfunded.com/LaneMullins/ OK OK 00:00:17.0271517
+12/7/2014 8:06:12 PM ==> http://www.texasfunded.com/LindaLane/ OK OK 00:00:18.3006061
+12/7/2014 8:06:12 PM ==> http://www.texasfunded.com/LucLarose/ OK OK 00:00:27.6336200
+12/7/2014 8:06:12 PM ==> http://www.texasfunded.com/MikeFarris/ OK OK 00:00:24.9966593
+12/7/2014 8:06:12 PM ==> http://www.texasfunded.com/PaulTamashiro/ OK OK 00:00:17.7039079
+12/7/2014 8:06:12 PM ==> http://www.texasfunded.com/StephanieHolbert/ OK OK 00:00:20.9145547
+12/7/2014 8:06:12 PM ==> http://www.texasfunded.com/TimBiles/ OK OK 00:00:16.9198192
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/AdielPosada/ OK OK 00:00:00.5250398
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/AndrewMichael/ OK OK 00:00:00.0441059
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/DavidFaska/ OK OK 00:00:00.0446831
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/DavidTerezo/ OK OK 00:00:00.0422773
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/DorothyDriscoll/ OK OK 00:00:00.0449843
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/EdwardForero/ OK OK 00:00:00.0412645
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/GordonMadris/ OK OK 00:00:00.0428232
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/JeffreyButofsky/ OK OK 00:00:00.0438860
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/KeithNatel/ OK OK 00:00:00.0415055
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/MichaelHatzidakis/ OK OK 00:00:00.0444814
+12/7/2014 8:06:12 PM ==> http://www.vanguardmortgage.net/ToddAdwar/ OK OK 00:00:00.0446775
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Avril/ OK OK 00:00:10.9618561
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Bertrand/ OK OK 00:00:12.7655402
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/DeCecco/ OK OK 00:00:13.4959138
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Dippel/ OK OK 00:00:13.8306275
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Egan/ OK OK 00:00:11.9386483
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Enderle/ OK OK 00:00:13.5876266
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Foydl/ OK OK 00:00:14.2578328
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Gallagher/ OK OK 00:00:18.4184363
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Huffman/ OK OK 00:00:12.2457087
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Hulberg/ OK OK 00:00:13.6435293
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/HwaChang/ OK OK 00:00:12.8741222
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Martinez/ OK OK 00:00:13.9036933
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Schadewitz/ OK OK 00:00:12.8140160
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Shoop/ OK OK 00:00:12.0754304
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Stanford/ OK OK 00:00:13.8612608
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Steele/ OK OK 00:00:15.9505230
+12/7/2014 8:06:12 PM ==> http://Banker.westernbancorp.com/Valenti/ OK OK 00:00:13.8361703
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/AmyChang/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BillKrone/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BrianPRogerson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ChadWoodruff/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ChristinaVarela/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/CraigRobertson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/CyndeeEstrada/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DanielMargolis/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DannyWheeler/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DeeColby/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/EricBott/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/FrankApodaca/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/FredDeVera/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GaryDavis/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GeorgeYu/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JaniceTorrez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JimFlynn/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JimSeefried/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JonathanBaker/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KellyMcCurdy/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KevinQuartereley/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/LisaJordan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MarloNewman/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MaryLouTrzcinski/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MikeCavallini/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MyrnaJuarez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/NatashaHendren/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/NicoleMusfeldt/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/PaulPhilbin/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RickGass/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/SamanthaFallon/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/SeanRogerson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/YvetteAllen/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/AdamDabbah/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/AidaRamirez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/AlanGreenberg/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Aletha/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/AlethaHughes/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/AndrewSchmidt/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ArthurMillerJr/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/AudraDefazio/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BarbaraChilders/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BartCastricone/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BenjaminCampos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BernardoSalinasJr/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BillDungey/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BillSershen/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BobbieRuth/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BrendaCano/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BrianEarhart/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BrianSeligmiller/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BSullivan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/CarlaMittelmann/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Celeste/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ChristopherMcBrearty/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ChristopherRobb/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ChristopherSweeney/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/clarenceb/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ClarenceButt/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/CRobb/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/CurtisMcGaha/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DarleneKeller/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DaveJohnson/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DavidMendelsohn/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DavidMFasano/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DavidWare/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DebbieSchmidt/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/demoagentsite/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DeniseFormico/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DeniseSwartz/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DennisCurran/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Derek/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DianaB/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DianaBachler/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DouglasBluff/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DouglasHart/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DWild/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DylanJames/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/EricKinneman/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/EricOlsen/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ErnestJones/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ERodriguez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/EsadHedzic/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/EvanZupancic/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/EvelynSecchiari/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/FrankMartorano/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GarrettHesley/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GaryFarber/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GeorgiosMarantos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GigiKisil/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GisetteKisil/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GraceCaddell/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GregoryMcAree/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/HectorGarcia/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/HectorSilva/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/HGarcia/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/HouseDeal/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/HowardBos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/IlianaDelSato/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ImeldaBridges/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/IreneKutz/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JamesSyler/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JAndersen/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JaneSchelstrate/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JaredFuller/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JefferyFerm/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JeffFerm/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JeffKirkpatrick/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JeffreyBrill/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JeffreyThomas/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JennieFord/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JessTrader/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JGolden/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JimMiller/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JimRosati/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JohnDoe/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JohnOwens/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JosephValverde/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JoshGolden/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JPerez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JudyFormico/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KarolineStanley/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KathleenMartin/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KelleneHendrix/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KennethRagsdale/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KevinK/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KevinNickel/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KevinZ/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KevinZatizabal/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KymmRinderer/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/LalehHanks/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/LauraBorja/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/LaurenWalkerBerg/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/LilyDee/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/LisaMurphy/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/lupe/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/LynnetteHart/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MannyBongiovanni/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Marketing/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MarkNickel/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MarkVanous/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MaryLangdon/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MaryMeyers/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MaureenSchubert/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Megan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MelvinJ/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MichaelFormico/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MichaelHabbas/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MichaelHayes/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MichaelKrystek/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MichaelOConnor/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MikeCatalano/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/NancyGardner/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/NDante/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/PatriciaAPace/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/PeteTentler/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/PhilipTrepak/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RalphReynolds/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RicardoDeolieira/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RichardHesley/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RichGupta/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RickFlorez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RKirk/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RobbHeering/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RobertAlvarez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RobertSpector/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RonaldCahalan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RonSemon/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RSalerno/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/rspector/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RyanRiedy/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RyanWalmsley/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RyanWooddy/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/SandiBrassell/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/SandraBrassell/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ScottGalland/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/SeanQuinn/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/StarlaMcHatton/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/StephenKShepard/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/StephenRust/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/SteveV/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/StuartGalland/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/SVelasquez/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/svetlana/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/SvetlanaMarinkovic/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Taylor/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/TaylorAlpert/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/teammelzostowell/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/TedScalia/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/TerrenceJSantos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ThomasStefanszky/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ThomasWhiteley/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/TimKattau/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/TJeffSantos/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ToddDavenport/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/toddf/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ToniSilva/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/TReynoso/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/TysonRondeau/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/WayneRichardRavenelle/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/WayneTrzcinski/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/WestonTwomey/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/YvetteChristensen/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ZacharyShepherd/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Lori/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JeffreyMcHatton/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/LindaMaxcy/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RickEstrada/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/FCalise/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/BuddyIrwin/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JPontino/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/HollyAlton/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/DaleLyons/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/RuthHealy/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/jquintana/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ShawnCarvin/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/TraciArmstrong/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MarkAllenbach/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Mark/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JBMcCutcheon/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/James/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ShawnBurke/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Angelica/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JohnMacias/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JoshuaHavner/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/NicoleCaplan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/SheilaG/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JeannetteMcBrearty/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/jhavner/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/jmacias/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/draphael/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/ncaplan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/LoriBlomker/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/PhillipPhan/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MatthewRoussel/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MRoussel/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/Paul.Lee/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/KimS/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/JMcHatton/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/GGold/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/MikeSabbagh/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.starboardcareers.com/msabbagh/ The remote server returned an error: (404) Not Found.
+12/7/2014 8:06:12 PM ==> http://www.snb.com/BLazo/ OK OK 00:00:00.8621700
+12/7/2014 8:06:12 PM ==> http://www.snb.com/EAdes/ OK OK 00:00:00.2999019
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JDelVecchio/ OK OK 00:00:00.2913627
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JDlabola/ OK OK 00:00:00.2963475
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MKassman/ OK OK 00:00:00.2899081
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MMaimon/ OK OK 00:00:00.2900192
+12/7/2014 8:06:12 PM ==> http://www.snb.com/NCalvo/ OK OK 00:00:00.2942018
+12/7/2014 8:06:12 PM ==> http://www.snb.com/EdPawlik/ OK OK 00:00:00.3202589
+12/7/2014 8:06:12 PM ==> http://www.snb.com/AdamGordon/ OK OK 00:00:00.3129422
+12/7/2014 8:06:12 PM ==> http://www.snb.com/AnthonyUlanovsky/ OK OK 00:00:00.2954378
+12/7/2014 8:06:12 PM ==> http://www.snb.com/DmitriyBleynis/ OK OK 00:00:00.3008083
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JonGoldberg/ OK OK 00:00:00.2891372
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JosephLevy/ OK OK 00:00:00.2908584
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JustinGreenberg/ OK OK 00:00:00.2854314
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MattMcEvoy/ OK OK 00:00:00.2911736
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MauraBasileo/ OK OK 00:00:00.2880758
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MichaelMills/ OK OK 00:00:00.2962116
+12/7/2014 8:06:12 PM ==> http://www.snb.com/OlgaSavelov/ OK OK 00:00:00.2905096
+12/7/2014 8:06:12 PM ==> http://www.snb.com/StuartFraass/ OK OK 00:00:00.2879133
+12/7/2014 8:06:12 PM ==> http://www.snb.com/LeonTawil/ OK OK 00:00:00.2969391
+12/7/2014 8:06:12 PM ==> http://www.snb.com/BenjaminLazo/ OK OK 00:00:00.3104696
+12/7/2014 8:06:12 PM ==> http://www.snb.com/DavidFallarino/ OK OK 00:00:00.3232204
+12/7/2014 8:06:12 PM ==> http://www.snb.com/EdwardAdes/ OK OK 00:00:00.3113854
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JordanaDelVecchio/ OK OK 00:00:00.2951408
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JosephDlabola/ OK OK 00:00:00.2894257
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MarkMaimon/ OK OK 00:00:00.2893417
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MitchellKassman/ OK OK 00:00:00.2904124
+12/7/2014 8:06:12 PM ==> http://www.snb.com/NormanCalvo/ OK OK 00:00:00.2886263
+12/7/2014 8:06:12 PM ==> http://www.snb.com/StreisandTeam/ OK OK 00:00:00.2897157
+12/7/2014 8:06:12 PM ==> http://www.snb.com/BrianBates/ OK OK 00:00:00.2984763
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JeffHoward/ OK OK 00:00:00.3007943
+12/7/2014 8:06:12 PM ==> http://www.snb.com/DesireeSheena/ OK OK 00:00:00.2892324
+12/7/2014 8:06:12 PM ==> http://www.snb.com/DougEhlerman/ OK OK 00:00:00.2890709
+12/7/2014 8:06:12 PM ==> http://www.snb.com/EricSchachter/ OK OK 00:00:00.2891152
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JamesHansen/ OK OK 00:00:00.2995088
+12/7/2014 8:06:12 PM ==> http://www.snb.com/TonyJao/ OK OK 00:00:00.3192555
+12/7/2014 8:06:12 PM ==> http://www.snb.com/AdamDejak/ OK OK 00:00:00.3029442
+12/7/2014 8:06:12 PM ==> http://www.snb.com/AdamMissry/ OK OK 00:00:00.2981210
+12/7/2014 8:06:12 PM ==> http://www.snb.com/AlanTrachtman/ OK OK 00:00:00.2935331
+12/7/2014 8:06:12 PM ==> http://www.snb.com/AmanIkram/ OK OK 00:00:00.2964436
+12/7/2014 8:06:12 PM ==> http://www.snb.com/AnthonyConstantinou/ OK OK 00:00:00.2914593
+12/7/2014 8:06:12 PM ==> http://www.snb.com/BarbaraFox/ OK OK 00:00:00.2887631
+12/7/2014 8:06:12 PM ==> http://www.snb.com/BrandonKelly/ OK OK 00:00:00.2853025
+12/7/2014 8:06:12 PM ==> http://www.snb.com/ChaviMiller/ OK OK 00:00:00.3202169
+12/7/2014 8:06:12 PM ==> http://www.snb.com/CraigKashazta/ OK OK 00:00:00.2932216
+12/7/2014 8:06:12 PM ==> http://www.snb.com/DannySassoon/ OK OK 00:00:00.2883826
+12/7/2014 8:06:12 PM ==> http://www.snb.com/EricAppelbaum/ OK OK 00:00:00.2846950
+12/7/2014 8:06:12 PM ==> http://www.snb.com/EricGarcia/ OK OK 00:00:00.3016722
+12/7/2014 8:06:12 PM ==> http://www.snb.com/EugeneLee/ OK OK 00:00:00.3204938
+12/7/2014 8:06:12 PM ==> http://www.snb.com/EzraTawil/ OK OK 00:00:00.3119742
+12/7/2014 8:06:12 PM ==> http://www.snb.com/GabiFeuer/ OK OK 00:00:00.2895266
+12/7/2014 8:06:12 PM ==> http://www.snb.com/GaryLieb/ OK OK 00:00:00.2956769
+12/7/2014 8:06:12 PM ==> http://www.snb.com/GrantReichlin/ OK OK 00:00:00.2843784
+12/7/2014 8:06:12 PM ==> http://www.snb.com/HeidiStone/ OK OK 00:00:00.2863779
+12/7/2014 8:06:12 PM ==> http://www.snb.com/HowardHeckler/ OK OK 00:00:00.2854417
+12/7/2014 8:06:12 PM ==> http://www.snb.com/IreneIlie/ OK OK 00:00:00.2919258
+12/7/2014 8:06:12 PM ==> http://www.snb.com/IsaacShalom/ OK OK 00:00:00.4739458
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JamesGarnets/ OK OK 00:00:00.2921098
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JamesWesleyJamison/ OK OK 00:00:00.2863368
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JanetNeman/ OK OK 00:00:00.2849901
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JayGoldstein/ OK OK 00:00:00.3043857
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JimmyMamakas/ OK OK 00:00:00.3189463
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JohnHanson/ OK OK 00:00:00.3096926
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JonathanHammer/ OK OK 00:00:00.2939412
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JonRodnon/ OK OK 00:00:00.2911157
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JosephAntar/ OK OK 00:00:00.2958016
+12/7/2014 8:06:12 PM ==> http://www.snb.com/JudithGiuffrida/ OK OK 00:00:00.2903966
+12/7/2014 8:06:12 PM ==> http://www.snb.com/KevinKonzet/ OK OK 00:00:00.2871409
+12/7/2014 8:06:12 PM ==> http://www.snb.com/LiliSlepack/ OK OK 00:00:00.2911778
+12/7/2014 8:06:12 PM ==> http://www.snb.com/LLoydStreisand/ OK OK 00:00:00.2871848
+12/7/2014 8:06:12 PM ==> http://www.snb.com/LuthienMelchior/ OK OK 00:00:00.3078407
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MarcNathan/ OK OK 00:00:00.2932441
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MarilynKorman/ OK OK 00:00:00.2876691
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MichaelBensimon/ OK OK 00:00:00.2915359
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MichaelMallia/ OK OK 00:00:00.3110907
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MichaelMantikas/ OK OK 00:00:00.3137239
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MichealFanous/ OK OK 00:00:00.2947341
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MindyLanoff/ OK OK 00:00:00.2949956
+12/7/2014 8:06:12 PM ==> http://www.snb.com/MorrisCohen/ OK OK 00:00:00.2957694
+12/7/2014 8:06:12 PM ==> http://www.snb.com/OmarBrito/ OK OK 00:00:00.3016642
+12/7/2014 8:06:12 PM ==> http://www.snb.com/PalmerPage/ OK OK 00:00:00.3013710
+12/7/2014 8:06:12 PM ==> http://www.snb.com/RichardMartin/ OK OK 00:00:00.2961537
+12/7/2014 8:06:12 PM ==> http://www.snb.com/RikiMcBride/ OK OK 00:00:00.2929130
+12/7/2014 8:06:12 PM ==> http://www.snb.com/StevenEsses/ OK OK 00:00:00.3005622
+12/7/2014 8:06:12 PM ==> http://www.snb.com/ToddBrown/ OK OK 00:00:00.3204812

@@ -1,0 +1,14 @@
+﻿Build started 12/4/2014 3:07:09 AM.
+     1>Project "D:\PI\CrackingTheCodingInterview\Chapter_5\5_1 Replace between i and j\5_1 Replace between i and j.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\pi\crackingthecodinginterview\chapter_5\5_1 replace between i and j\main.cpp(48): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PI\CrackingTheCodingInterview\Chapter_5\Debug\5_1 Replace between i and j.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\PI\CrackingTheCodingInterview\Chapter_5\Debug\5_1 Replace between i and j.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PI\CrackingTheCodingInterview\Chapter_5\Debug\5_1 Replace between i and j.lib" /MACHINE:X86 Debug\main.obj
+         5_1 Replace between i and j.vcxproj -> D:\PI\CrackingTheCodingInterview\Chapter_5\Debug\5_1 Replace between i and j.exe
+     1>Done Building Project "D:\PI\CrackingTheCodingInterview\Chapter_5\5_1 Replace between i and j\5_1 Replace between i and j.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86

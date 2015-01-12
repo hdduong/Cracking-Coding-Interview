@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.2 Anagram together", "11.2 Anagram together\11.2 Anagram together.vcxproj", "{136057EA-25D9-4568-857B-841B60BEC198}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.7 Circus Tower", "11.7 Circus Tower\11.7 Circus Tower.vcxproj", "{0E5D640D-B2EF-45B9-B220-D40E18889BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{136057EA-25D9-4568-857B-841B60BEC198}.Debug|Win32.ActiveCfg = Debug|Win32
+		{136057EA-25D9-4568-857B-841B60BEC198}.Debug|Win32.Build.0 = Debug|Win32
+		{136057EA-25D9-4568-857B-841B60BEC198}.Release|Win32.ActiveCfg = Release|Win32
+		{136057EA-25D9-4568-857B-841B60BEC198}.Release|Win32.Build.0 = Release|Win32
+		{0E5D640D-B2EF-45B9-B220-D40E18889BCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E5D640D-B2EF-45B9-B220-D40E18889BCB}.Debug|Win32.Build.0 = Debug|Win32
+		{0E5D640D-B2EF-45B9-B220-D40E18889BCB}.Release|Win32.ActiveCfg = Release|Win32
+		{0E5D640D-B2EF-45B9-B220-D40E18889BCB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\PI\CrackingTheCodingInterview\LoadTest_1\LoadTest_1\bin\Debug\LoadTest_1.exe.config
+D:\PI\CrackingTheCodingInterview\LoadTest_1\LoadTest_1\obj\Debug\LoadTest_1.csprojResolveAssemblyReference.cache
+D:\PI\CrackingTheCodingInterview\LoadTest_1\LoadTest_1\bin\Debug\LoadTest_1.exe
+D:\PI\CrackingTheCodingInterview\LoadTest_1\LoadTest_1\bin\Debug\LoadTest_1.pdb
+D:\PI\CrackingTheCodingInterview\LoadTest_1\LoadTest_1\obj\Debug\LoadTest_1.exe
+D:\PI\CrackingTheCodingInterview\LoadTest_1\LoadTest_1\obj\Debug\LoadTest_1.pdb
